@@ -55,7 +55,7 @@ public class Controller {
 
         // Her tarama için bazı tohum URL'leri eklemeniz gerekir.
         // Bunlar getirilen ilk Url'lerdir ve daha sonra tarayıcı bu sayfalarda bulunan bağlantıları takip etmeye başlar
-        controller.addSeed("http://www.ilkerturker.com/");
+        controller.addSeed("http://www.xxxx.com/");
         //controller.addSeed("https://www.ics.uci.edu/~lopes/");
         //controller.addSeed("https://www.ics.uci.edu/~welling/");
 
